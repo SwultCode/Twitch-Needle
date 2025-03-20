@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 343.22 171.61">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: lime;
+      }
+
+      .cls-2 {
+        font-family: KomikaAxis, 'Komika Axis';
+        font-size: 52.66px;
+      }
+
+      .cls-3 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path class="cls-3" d="M171.61,0v171.6H0C0,76.82,76.83,0,171.61,0Z"/>
+    <path class="cls-1" d="M343.22,171.61h-171.61V0c94.77,0,171.61,76.83,171.61,171.61Z"/>
+    <text class="cls-2" transform="translate(224.04 151.9)"><tspan x="0" y="0">$5</tspan></text>
+    <text class="cls-2" transform="translate(32.59 151.9)"><tspan x="0" y="0">BAN</tspan></text>
+  </g>
+</svg>
